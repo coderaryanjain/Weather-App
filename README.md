@@ -55,12 +55,6 @@ A beautiful, modern weather application built with SwiftUI that provides real-ti
 - **Protocol-Oriented Design** for testability
 - **Error Handling** with custom error types
 
-## 📱 Screenshots
-
-| Welcome Screen | Search Results | Weather Details |
-|:--------------:|:--------------:|:---------------:|
-| ![Welcome](demo/welcome.png) | ![Search](demo/search.png) | ![Details](demo/details.png) |
-
 ## 🎥 Demo Video
 
 ### **See the Weather App in Action**
